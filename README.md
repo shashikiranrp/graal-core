@@ -1,3 +1,5 @@
+## _This repository is deprecated - please use https://github.com/graalvm/graal instead._
+
 Graal is a dynamic compiler written in Java that integrates with the HotSpot JVM. It has a focus on high performance and extensibility.
 In addition, it provides optimized performance for [Truffle](https://github.com/graalvm/truffle)-based languages running on the JVM.
 
